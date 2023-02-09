@@ -1,0 +1,3 @@
+-> git clone #which is used to create a copy of specific repository in the local system
+-> ls #which is used to show the all files that are present in repository
+-> git pull #which is used to get all the files from remote repository to local repository
