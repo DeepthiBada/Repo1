@@ -1,3 +1,4 @@
 Hello welcome to github!! here we are going to learn how to clone the repository from remote to local system 
 and also take files from remote and move into local system,
 for that we are using commands in the git are clone and pull.
+Public and Private are types that can be used in repository whether others can see or do the changes. 
